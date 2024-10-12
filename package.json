@@ -1,0 +1,22 @@
+{
+  "name": "tifabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tifa",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^1.7.7",
+    "canvas": "^2.11.2",
+    "croxydb": "^0.0.26",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^14.16.3",
+    "fs": "^0.0.1-security",
+    "git": "^0.1.5",
+    "sharp": "^0.33.5"
+  }
+}
